@@ -12,7 +12,7 @@
 
 ### 🤝 Connect with me:
 
-<a href="www.linkedin.com/in/pramesh-pradhan-50296616b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/github.svg" alt="Pramesh Pradhan| LinkedIn" width="21px"/></a>
+<a href="www.linkedin.com/in/pramesh-pradhan-50296616b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Pramesh Pradhan| LinkedIn" width="21px"/></a>
 
 </br>
 
