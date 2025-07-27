@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pra-mesh&label=Profile%20views&color=0e75b6&style=flat" alt="pra-mesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pra-mesh" alt="pra-mesh" /></a> </p>
+<!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pra-mesh" alt="pra-mesh" /></a> </p> -->
 
 - 🔭 I’m currently working on **Resume Builder**
 
